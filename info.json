@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7384077,
+    "name": "Krishna Pilla",
+    "email": "pilla_krishna@osinski-hilpert.example",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7384076,
+    "name": "Parvati Sharma",
+    "email": "sharma_parvati@okon.example",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 7384075,
+    "name": "Bhardwaj Bhattacharya",
+    "email": "bhattacharya_bhardwaj@ortiz.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7384074,
+    "name": "Balagopal Trivedi",
+    "email": "balagopal_trivedi@leffler.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7384073,
+    "name": "Chandraprabha Iyengar",
+    "email": "chandraprabha_iyengar@hintz.example",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7384072,
+    "name": "Vishnu Trivedi",
+    "email": "trivedi_vishnu@schmeler.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7384071,
+    "name": "Gorakhanatha Johar",
+    "email": "johar_gorakhanatha@zulauf.test",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 7381471,
+    "name": "Rev. Baalagopaal Gupta",
+    "email": "rev_gupta_baalagopaal@quitzon.test",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7381468,
+    "name": "Karunanidhi Mukhopadhyay",
+    "email": "mukhopadhyay_karunanidhi@oberbrunner.example",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 7381467,
+    "name": "Shresth Saini",
+    "email": "shresth_saini@davis.test",
+    "gender": "female",
+    "status": "inactive"
+  }
+]
